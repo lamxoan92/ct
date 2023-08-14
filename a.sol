@@ -1,10 +1,3 @@
-/**
-Website: aquaman-erc20.com
-Telegram: https://t.me/AquamanERC20
-Twitter: https://twitter.com/Aquaman_ERC20
-Aquaman exist to bring safe water to the world.
-*/
-
 // SPDX-License-Identifier: MIT
 
 pragma solidity 0.8.17;
